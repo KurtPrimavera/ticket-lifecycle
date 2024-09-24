@@ -2,21 +2,21 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket: Navigating the Ticket Lifecycle from Initial Intake to Final Resolution</h1>
+This tutorial offers an in-depth exploration of the ticket lifecycle within the open-source help desk ticketing system, osTicket. It covers each critical stage, starting from the initial intake of support requests, through categorization and prioritization, to the final resolution and closure of tickets. Readers will gain valuable insights into best practices for effectively managing support tickets, streamlining communication, and improving response times, ultimately enhancing overall customer satisfaction.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-- osTicket
+- Microsoft Azure (Virtual Machines/Compute): Cloud platform used for deploying and managing virtual machines, enabling scalable resources for application hosting.
+- Remote Desktop: Protocol utilized for remote access and management of virtual machines, allowing users to interact with the Windows environment seamlessly.
+- Internet Information Services (IIS): Web server software used to host and manage web applications, including osTicket, providing essential features for application deployment.
+- osTicket: Open-source help desk ticketing system employed for managing support requests, facilitating efficient communication between users and support teams.
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2) (Virtual Machines)
-- macOS Sonoma (Host)
-
+- Windows 10 (21H2): Deployed on virtual machines for running applications and testing environments.
+- macOS Sonoma: The host operating system used for managing and accessing virtual machines.
+	
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
