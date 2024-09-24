@@ -10,6 +10,7 @@ This tutorial offers an in-depth exploration of the ticket lifecycle within the 
 - Remote Desktop: Protocol utilized for remote access and management of virtual machines, allowing users to interact with the Windows environment seamlessly.
 - Internet Information Services (IIS): Web server software used to host and manage web applications, including osTicket, providing essential features for application deployment.
 - osTicket: Open-source help desk ticketing system employed for managing support requests, facilitating efficient communication between users and support teams.
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2): Deployed on virtual machines for running applications and testing environments.
