@@ -23,7 +23,6 @@ This tutorial offers an in-depth exploration of the ticket lifecycle within the 
 - Working the Issue: The assigned support staff investigates the issue by analyzing the information provided, performing necessary troubleshooting, and consulting relevant documentation or resources. This stage may involve collaboration with other team members to find an effective solution.
 - Resolution: After diagnosing the problem, the support staff implements a solution and verifies its effectiveness. Once the issue is resolved, the user is informed, and the ticket is updated with relevant notes detailing the resolution process.
 - Set Up Admin Accounts and Users: In conjunction with ticket management, administrators create and configure user accounts to ensure appropriate access levels. This step is crucial for maintaining security and enabling users to efficiently interact with the help desk system.
-
 <h2>Lifecycle Stages</h2>
 
 <p>
@@ -51,6 +50,5 @@ Reviewed Ticket Properties: Conducted a thorough review of ticket properties to 
 Reviewed and Adjusted the Severity of the Service Level Agreement (SLA): Conducted a comprehensive review of the existing SLA parameters, assessing the severity levels assigned to various types of support issues. Based on this analysis, necessary adjustments were made to ensure that the SLA accurately reflects the urgency and impact of different ticket categories, facilitating better alignment with organizational goals and customer expectations.
 
 Prioritized the Severity of Tickets: Evaluated and prioritized the severity of incoming tickets based on predefined criteria such as urgency, impact, and user needs. This prioritization process ensures that critical issues are addressed promptly, allowing support teams to allocate resources effectively and enhance overall customer satisfaction. By implementing a clear prioritization strategy, the team can improve response times and focus on high-impact tickets that require immediate attention.
-
 </p>
 <br />
