@@ -19,11 +19,11 @@ This tutorial offers an in-depth exploration of the ticket lifecycle within the 
 	
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-- Set up admin accounts and users
+	•	Intake: The initial stage where support requests are received and recorded. This involves gathering essential information from the user to ensure accurate ticket creation and categorization.
+	•	Assignment and Communication: Once the ticket is created, it is assigned to the appropriate support personnel based on expertise or workload. Clear communication is established with the user to confirm receipt of the ticket and provide updates throughout the resolution process.
+	•	Working the Issue: The assigned support staff investigates the issue by analyzing the information provided, performing necessary troubleshooting, and consulting relevant documentation or resources. This stage may involve collaboration with other team members to find an effective solution.
+	•	Resolution: After diagnosing the problem, the support staff implements a solution and verifies its effectiveness. Once the issue is resolved, the user is informed, and the ticket is updated with relevant notes detailing the resolution process.
+	•	Set Up Admin Accounts and Users: In conjunction with ticket management, administrators create and configure user accounts to ensure appropriate access levels. This step is crucial for maintaining security and enabling users to efficiently interact with the help desk system.
 
 <h2>Lifecycle Stages</h2>
 
